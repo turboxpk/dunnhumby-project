@@ -1,6 +1,3 @@
-#set working directory#
-setwd("/Users/PK/Desktop/dunnhumby_Carbo-Loading/dunnhumby - Carbo-Loading CSV")
-
 #Dunnhumby Case Study Carbo_loading#
 #Created by PK Xia on January 2019#
 #load libary#
